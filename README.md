@@ -51,6 +51,32 @@ This project removes image backgrounds using deep learning (U2Net model) and pro
    - Apply custom background color
    - Toggle between original and processed view
 
----
+### 🎯 Learning Outcomes
 
-## 📂 Project Structure
+Backend API development with FastAPI
+
+Deep learning model integration
+
+ONNX runtime usage
+
+Canvas-based image rendering
+
+Clean UI/UX implementation
+
+Full-stack project structuring
+
+GitHub workflow and documentation
+
+### 📌 Future Improvements
+
+Background blur mode
+
+Gradient background presets
+
+Side-by-side comparison mode
+
+Image history gallery
+
+Cloud deployment version
+
+React + Tailwind version
